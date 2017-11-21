@@ -921,7 +921,7 @@ exports default { init };
 
 #### Events for unrelated modules
 
-Use a small Publish Subscribe implementation, like [PubSubJS](https://github.com/mroderick/PubSubJS):
+Use a small [Publish/Subscribe pattern](https://en.wikipedia.org/wiki/Publish%E2%80%93subscribe_pattern) implementation, like [PubSubJS](https://github.com/mroderick/PubSubJS):
 
 ```js
 // analytics.js
